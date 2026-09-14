@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Interview Preparation
 
-> **Target:** Big-firm Penetration Testing / VAPT / AppSec / Product Security / Security Engineer roles
+> **Target:** Penetration Testing / VAPT / AppSec / Product Security / Security Engineer roles
 >
 > **Method:** Learn → Understand → Practice → Lab → Project → Interview Questions → Explain
 
